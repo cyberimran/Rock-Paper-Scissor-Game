@@ -34,7 +34,7 @@ Run the Game
 I'm a full stack web developer and Python developer.
 
 
-## Contact
+## Contact ☎️
 
 contact.imrancoding@gmail.com
 
