@@ -1,13 +1,13 @@
 #imrancoding
 import random
-lst=["Rock","Paper","Scissor"]
+lst=["Rock", "Paper", "Scissor"]
 while True:
     user_count=0
     computer_count=0
     user_choice=int(input("\n1.Press 1 to play game\n2.Press 2 to exit\n"))
     if user_choice==1:
         print("\nR = Rock\nP = Paper\nS = Scissor")
-        for x in range(1,4):
+        for x in range(1, 4):
             user_input=input("\nYour choice: ")
             computer_choice=random.choice(lst)
             if (user_input=="R") or (user_input=="r"):
