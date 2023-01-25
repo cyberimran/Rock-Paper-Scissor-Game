@@ -33,9 +33,9 @@ while True:
         if user_count==computer_count:
             print(f"\n\nYour score: {user_count}\nComputer score{computer_count}\n\nFinal result: Match draw.") 
         elif user_count>computer_count:
-            print(f"\n\nYour score: {user_count}\nComputer score: {computer_count}\n\nFinal result: You win.") 
+            print(f"\n\nYour score: {user_count}\nComputer score: {computer_count}\n\nFinal result: You is winner.") 
         else:
-            print(f"\n\nComputer score: {computer_count}\nYour score: {user_count}\n\nFinal result: Computer win.")
+            print(f"\n\nComputer score: {computer_count}\nYour score: {user_count}\n\nFinal result: Computer is winner.")
              
     else:
         break
