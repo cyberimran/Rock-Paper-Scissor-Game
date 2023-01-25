@@ -14,7 +14,7 @@
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/imrancoding/Rock-Paper-Scissor-Game
 ```
 
 Go to the project directory
